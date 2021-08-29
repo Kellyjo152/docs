@@ -1,3 +1,4 @@
+[google_privacy_policy_en_us.pdf](https://github.com/Kellyjo152/docs/files/7071936/google_privacy_policy_en_us.pdf)
 # Security Policy
 
 ## Supported Versions
